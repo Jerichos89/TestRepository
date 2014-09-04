@@ -1,4 +1,4 @@
 <?php
-
+$variable =5;
 
 ?>
